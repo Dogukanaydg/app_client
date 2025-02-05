@@ -36,7 +36,7 @@ Before running the application, ensure you have the following installed on your 
 ## Steps to Run the Project
 1. **Clone the Repository**  
    ```bash
-   https://github.com/Biplov01/app_client.git
+   https://github.com/Dogukanaydg/app_client.git
    cd app_client
 
    ```
